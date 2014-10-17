@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyr:home|Door43 (tyr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyr|d43-tyr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyr/archive/master.zip|d43-tyr.zip]]
+
+**Recent Changes**
+{{changes>ns = tyr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyr|Ethnologue data]]
+
